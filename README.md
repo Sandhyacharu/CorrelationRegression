@@ -1,4 +1,4 @@
-### EX NO: 01
+### EX NO: 04
 ### DATE:
 # <p align="center">Correlation and Regression for Data Analysis</p>
 
